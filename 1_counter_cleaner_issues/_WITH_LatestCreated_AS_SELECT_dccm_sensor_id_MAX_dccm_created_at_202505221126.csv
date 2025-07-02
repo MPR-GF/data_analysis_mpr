@@ -1,0 +1,200 @@
+"sensor_id","building","address","gfstandard_id","acronym_n","error","created_at","reference_date"
+4,111,Weverstr. 11A,2,e_chp(n)_hm,No values greater than 0.,2025-05-02 18:00:03.565 +0200,2025-03-31 23:59:59.000
+440,122,Breitkopfstr. 132,5,e_hc(n)_hm,Data is empty.,2025-05-02 20:11:01.163 +0200,2025-03-31 23:59:59.000
+441,126,Lampesteig 11,5,e_hc(n)_hm,Data is empty.,2025-05-02 20:12:01.213 +0200,2025-03-31 23:59:59.000
+506,111,Weverstr. 11A,,,No values after removing drops.,2025-05-02 20:23:38.329 +0200,2025-03-31 23:59:59.000
+511,122,Breitkopfstr. 132,6,e_hw(n)_hm,Data is empty.,2025-05-02 20:25:39.159 +0200,2025-03-31 23:59:59.000
+527,164,Max-Steinke-Str. 19,133,v_g_gm,No values greater than 0.,2025-05-02 20:29:42.320 +0200,2025-03-31 23:59:59.000
+661,198,Residenzstr. 147,133,v_g_gm,No complete data. ,2025-05-02 20:55:41.295 +0200,2025-03-31 23:59:59.000
+681,214,Forkenzeile 22,4,e_g_hm,Data is empty.,2025-05-02 21:02:54.177 +0200,2025-03-31 23:59:59.000
+795,228,Residenzstr. 143,5,e_hc(n)_hm,Data is empty.,2025-05-02 21:18:19.150 +0200,2025-03-31 23:59:59.000
+990,129,Grünrockweg 8,5,e_hc(n)_hm,Data is empty.,2025-05-02 21:36:55.936 +0200,2025-03-31 23:59:59.000
+1023,203,Breitkopfstr. 134,5,e_hc(n)_hm,Data is empty.,2025-05-02 21:40:10.265 +0200,2025-03-31 23:59:59.000
+1065,105,Plonzstr. 2,4,e_g_hm,No values greater than 0.,2025-05-02 21:48:24.158 +0200,2025-03-31 23:59:59.000
+1136,246,Paracelsusstr. 36,4,e_g_hm,Data is empty.,2025-05-02 21:58:45.119 +0200,2025-03-31 23:59:59.000
+1176,110,Weverstr. 71D,6,e_hw(n)_hm,No values greater than 0.,2025-05-02 22:06:43.156 +0200,2025-03-31 23:59:59.000
+1225,210,Grünrockweg 5,5,e_hc(n)_hm,Data is empty.,2025-05-02 22:15:57.801 +0200,2025-03-31 23:59:59.000
+1281,240,Murtzaner Ring 8,5,e_hc(n)_hm,Data is empty.,2025-05-02 22:21:09.084 +0200,2025-03-31 23:59:59.000
+1292,201,Breitkopfstr. 121,6,e_hw(n)_hm,Data is empty.,2025-05-02 22:23:11.638 +0200,2025-03-31 23:59:59.000
+1305,168,Murtzaner Ring 60,5,e_hc(n)_hm,Data is empty.,2025-05-02 22:25:14.740 +0200,2025-03-31 23:59:59.000
+1313,296,Breitkopfstr. 140,6,e_hw(n)_hm,Data is empty.,2025-05-02 22:27:17.882 +0200,2025-03-31 23:59:59.000
+1505,296,Breitkopfstr. 140,5,e_hc(n)_hm,Data is empty.,2025-05-02 22:58:19.725 +0200,2025-03-31 23:59:59.000
+513,129,Grünrockweg 8,6,e_hw(n)_hm,Data is empty.,2025-05-02 20:26:39.209 +0200,2025-03-31 23:59:59.000
+550,269,Breitkopfstr. 105,133,v_g_gm,Data is empty.,2025-05-02 20:31:44.682 +0200,2025-03-31 23:59:59.000
+668,267,Residenzstr. 149,5,e_hc(n)_hm,Data is empty.,2025-05-02 20:56:41.337 +0200,2025-03-31 23:59:59.000
+688,272,Breitkopfstr. 99,5,e_hc(n)_hm,Data is empty.,2025-05-02 21:04:56.692 +0200,2025-03-31 23:59:59.000
+729,198,Residenzstr. 147,5,e_hc(n)_hm,Data is empty.,2025-05-02 21:12:07.156 +0200,2025-03-31 23:59:59.000
+740,103,Wilhelm-Guddorf-Str. 6,5,e_hc(n)_hm,No values after removing drops.,2025-05-02 21:14:12.954 +0200,2025-03-31 23:59:59.000
+844,135,Wilhelm-Guddorf-Str. 14,5,e_hc(n)_hm,No values after removing drops.,2025-05-02 21:20:22.836 +0200,2025-03-31 23:59:59.000
+965,271,Residenzstr. 148,6,e_hw(n)_hm,Data is empty.,2025-05-02 21:31:53.097 +0200,2025-03-31 23:59:59.000
+981,120,Büchsenweg 9,133,v_g_gm,Data is empty.,2025-05-02 21:34:55.832 +0200,2025-03-31 23:59:59.000
+1011,142,Neumarkplan 10A,,,No values greater than 0.,2025-05-02 21:38:10.162 +0200,2025-03-31 23:59:59.000
+1056,270,Breitkopfstr. 109,5,e_hc(n)_hm,Data is empty.,2025-05-02 21:45:21.136 +0200,2025-03-31 23:59:59.000
+1224,216,Poelchaustr. 28,5,e_hc(n)_hm,Data is empty.,2025-05-02 22:14:57.753 +0200,2025-03-31 23:59:59.000
+1456,226,Grünrockweg 7,5,e_hc(n)_hm,Data is empty.,2025-05-02 22:46:59.553 +0200,2025-03-31 23:59:59.000
+1477,122,Breitkopfstr. 132,133,v_g_gm,Data is empty.,2025-05-02 22:52:07.932 +0200,2025-03-31 23:59:59.000
+1553,101,Lincolnstr. 16,,,No values after removing drops.,2025-05-02 23:03:40.138 +0200,2025-03-31 23:59:59.000
+24,114,Armbrustweg 17,5,e_hc(n)_hm,Data is empty.,2025-05-02 18:04:11.612 +0200,2025-03-31 23:59:59.000
+472,267,Residenzstr. 149,6,e_hw(n)_hm,Data is empty.,2025-05-02 20:18:10.255 +0200,2025-03-31 23:59:59.000
+644,136,Lincolnstr. 60,133,v_g_gm,Data is empty.,2025-05-02 20:51:29.761 +0200,2025-03-31 23:59:59.000
+654,202,Klemkestr. 16,6,e_hw(n)_hm,Data is empty.,2025-05-02 20:54:39.958 +0200,2025-03-31 23:59:59.000
+670,141,Aalesunder Str. 9,133,v_g_gm,No values greater than 0.,2025-05-02 20:57:46.094 +0200,2025-03-31 23:59:59.000
+792,135,Wilhelm-Guddorf-Str. 14,6,e_hw(n)_hm,No values greater than 0.,2025-05-02 21:17:19.088 +0200,2025-03-31 23:59:59.000
+903,127,Breitkopfstr. 136,5,e_hc(n)_hm,Data is empty.,2025-05-02 21:24:30.991 +0200,2025-03-31 23:59:59.000
+976,124,Grünrockweg 4,5,e_hc(n)_hm,Data is empty.,2025-05-02 21:32:53.166 +0200,2025-03-31 23:59:59.000
+989,129,Grünrockweg 8,5,e_hc(n)_hm,Data is empty.,2025-05-02 21:35:55.882 +0200,2025-03-31 23:59:59.000
+1017,115,Klemkestr. 20,5,e_hc(n)_hm,Data is empty.,2025-05-02 21:39:10.214 +0200,2025-03-31 23:59:59.000
+1058,120,Büchsenweg 9,6,e_hw(n)_hm,Data is empty.,2025-05-02 21:46:21.180 +0200,2025-03-31 23:59:59.000
+1074,203,Breitkopfstr. 134,6,e_hw(n)_hm,Data is empty.,2025-05-02 21:50:26.705 +0200,2025-03-31 23:59:59.000
+1186,138,Alfred-Randt-Str. 14,6,e_hw(n)_hm,No values greater than 0.,2025-05-02 22:09:47.828 +0200,2025-03-31 23:59:59.000
+1202,239,Murtzaner Ring 18,5,e_hc(n)_hm,Data is empty.,2025-05-02 22:12:55.315 +0200,2025-03-31 23:59:59.000
+1458,166,Raoul-Wallenberg-Str. 45,4,e_g_hm,Data is empty.,2025-05-02 22:47:59.598 +0200,2025-03-31 23:59:59.000
+1537,116,Breitkopfstr. 103,6,e_hw(n)_hm,Data is empty.,2025-05-02 23:02:28.035 +0200,2025-03-31 23:59:59.000
+621,116,Breitkopfstr. 103,5,e_hc(n)_hm,Data is empty.,2025-05-02 20:47:22.174 +0200,2025-03-31 23:59:59.000
+672,278,Alte Hellersdorfer Str. 138,4,e_g_hm,Data is empty.,2025-05-02 20:58:46.146 +0200,2025-03-31 23:59:59.000
+703,209,Breitkopfstr. 107,5,e_hc(n)_hm,Data is empty.,2025-05-02 21:06:59.343 +0200,2025-03-31 23:59:59.000
+904,119,Breitkopfstr. 130,5,e_hc(n)_hm,Data is empty.,2025-05-02 21:25:31.052 +0200,2025-03-31 23:59:59.000
+954,157,Alfred-Randt-Str. 20,4,e_g_hm,No values after removing drops.,2025-05-02 21:28:35.259 +0200,2025-03-31 23:59:59.000
+1325,201,Breitkopfstr. 121,5,e_hc(n)_hm,Data is empty.,2025-05-02 22:30:22.937 +0200,2025-03-31 23:59:59.000
+1566,205,Lea-Grundig-Str. 18,4,e_g_hm,Data is empty.,2025-05-02 23:06:46.899 +0200,2025-03-31 23:59:59.000
+1574,249,Blumberger Damm 6,4,e_g_hm,Data is empty.,2025-05-02 23:07:46.944 +0200,2025-03-31 23:59:59.000
+1685,144,Neumarkplan 9C,4,e_g_hm,No values after removing drops.,2025-05-02 23:32:46.966 +0200,2025-03-31 23:59:59.000
+1698,182,Breitkopfstr. 101,6,e_hw(n)_hm,Data is empty.,2025-05-02 23:36:55.622 +0200,2025-03-31 23:59:59.000
+1757,165,Lampesteig 1,5,e_hc(n)_hm,Data is empty.,2025-05-02 23:49:15.648 +0200,2025-03-31 23:59:59.000
+1779,209,Breitkopfstr. 107,133,v_g_gm,Data is empty.,2025-05-02 23:54:26.859 +0200,2025-03-31 23:59:59.000
+1782,253,Murtzaner Ring 22,5,e_hc(n)_hm,Data is empty.,2025-05-02 23:55:26.931 +0200,2025-03-31 23:59:59.000
+1843,222,Murtzaner Ring 26,5,e_hc(n)_hm,Data is empty.,2025-05-03 00:09:15.088 +0200,2025-03-31 23:59:59.000
+1878,281,Forkenzeile 11,4,e_g_hm,Data is empty.,2025-05-03 00:15:23.878 +0200,2025-03-31 23:59:59.000
+2195,162,Jerichower Str. 4,5,e_hc(n)_hm,No complete data. ,2025-05-03 00:25:23.787 +0200,2025-03-31 23:59:59.000
+2306,5,Raderberger Straße 154-160,133,v_g_gm,No values greater than 0.,2025-05-03 00:52:38.680 +0200,2025-03-31 23:59:59.000
+2886,262,Archenholdstr. 46,6,e_hw(n)_hm,Data is empty.,2025-05-03 01:05:54.532 +0200,2025-03-31 23:59:59.000
+3026,202,Klemkestr. 16,133,v_g_gm,Data is empty.,2025-05-03 01:11:56.169 +0200,2025-03-31 23:59:59.000
+708,201,Breitkopfstr. 121,133,v_g_gm,Data is empty.,2025-05-02 21:07:59.388 +0200,2025-03-31 23:59:59.000
+961,142,Neumarkplan 10A,,,No values after removing drops.,2025-05-02 21:29:50.062 +0200,2025-03-31 23:59:59.000
+1350,275,Barther Str. 58,4,e_g_hm,Data is empty.,2025-05-02 22:34:30.859 +0200,2025-03-31 23:59:59.000
+1606,258,An der Kappe 56D,4,e_g_hm,Data is empty.,2025-05-02 23:11:58.795 +0200,2025-03-31 23:59:59.000
+1632,198,Residenzstr. 147,6,e_hw(n)_hm,No complete data. ,2025-05-02 23:16:15.781 +0200,2025-03-31 23:59:59.000
+1640,115,Klemkestr. 20,6,e_hw(n)_hm,Data is empty.,2025-05-02 23:18:18.834 +0200,2025-03-31 23:59:59.000
+1647,144,Neumarkplan 9C,6,e_hw(n)_hm,No values greater than 0.,2025-05-02 23:21:23.571 +0200,2025-03-31 23:59:59.000
+1701,264,Murtzaner Ring 31,5,e_hc(n)_hm,Data is empty.,2025-05-02 23:37:55.669 +0200,2025-03-31 23:59:59.000
+1739,136,Lincolnstr. 60,4,e_g_hm,No values after removing drops.,2025-05-02 23:46:12.798 +0200,2025-03-31 23:59:59.000
+1800,111,Weverstr. 11A,6,e_hw(n)_hm,No values greater than 0.,2025-05-03 00:01:05.555 +0200,2025-03-31 23:59:59.000
+1819,107,Stavanger Str. 9,133,v_g_gm,No values greater than 0.,2025-05-03 00:06:12.284 +0200,2025-03-31 23:59:59.000
+1903,137,Stendaler Str. 142,6,e_hw(n)_hm,No complete data. ,2025-05-03 00:16:35.343 +0200,2025-03-31 23:59:59.000
+1910,137,Stendaler Str. 142,5,e_hc(n)_hm,No complete data. ,2025-05-03 00:20:47.184 +0200,2025-03-31 23:59:59.000
+2888,255,Rosenfelder Str. 20,5,e_hc(n)_hm,Data is empty.,2025-05-03 01:06:54.622 +0200,2025-03-31 23:59:59.000
+3387,250,Rüdickenstr. 10,4,e_g_hm,Data is empty.,2025-05-03 01:16:11.829 +0200,2025-03-31 23:59:59.000
+35,101,Lincolnstr. 16,,,No values after removing drops.,2025-05-02 18:06:27.001 +0200,2025-03-31 23:59:59.000
+948,101,Lincolnstr. 16,5,e_hc(n)_hm,No values greater than 0.,2025-05-02 21:27:33.898 +0200,2025-03-31 23:59:59.000
+1722,114,Armbrustweg 17,6,e_hw(n)_hm,Data is empty.,2025-05-02 23:42:04.242 +0200,2025-03-31 23:59:59.000
+1742,202,Klemkestr. 16,5,e_hc(n)_hm,Data is empty.,2025-05-02 23:47:12.850 +0200,2025-03-31 23:59:59.000
+1805,209,Breitkopfstr. 107,6,e_hw(n)_hm,Data is empty.,2025-05-03 00:02:05.602 +0200,2025-03-31 23:59:59.000
+1822,207,Klemkestr. 17,5,e_hc(n)_hm,Data is empty.,2025-05-03 00:07:12.333 +0200,2025-03-31 23:59:59.000
+2209,162,Jerichower Str. 4,6,e_hw(n)_hm,No complete data. ,2025-05-03 00:33:16.013 +0200,2025-03-31 23:59:59.000
+2895,294,Rosenfelder Str. 21,5,e_hc(n)_hm,Data is empty.,2025-05-03 01:07:54.669 +0200,2025-03-31 23:59:59.000
+3396,247,Alexandrinenstr. 100,5,e_hc(n)_hm,Data is empty.,2025-05-03 01:17:11.890 +0200,2025-03-31 23:59:59.000
+1731,269,Breitkopfstr. 105,5,e_hc(n)_hm,Data is empty.,2025-05-02 23:43:04.336 +0200,2025-03-31 23:59:59.000
+2912,298,Barther Str. 30,4,e_g_hm,Data is empty.,2025-05-03 01:08:54.733 +0200,2025-03-31 23:59:59.000
+3405,247,Alexandrinenstr. 100,4,e_g_hm,Data is empty.,2025-05-03 01:18:11.937 +0200,2025-03-31 23:59:59.000
+2915,293,Mark-Twain-Str. 17,4,e_g_hm,Data is empty.,2025-05-03 01:09:54.774 +0200,2025-03-31 23:59:59.000
+3406,227,Mehrower Allee 50,4,e_g_hm,Data is empty.,2025-05-03 01:19:11.989 +0200,2025-03-31 23:59:59.000
+2989,304,Buchholzer Strasse 4,4,e_g_hm,No complete data. ,2025-05-03 01:10:56.124 +0200,2025-03-31 23:59:59.000
+3413,179,Mehrower Allee 36,4,e_g_hm,Data is empty.,2025-05-03 01:20:12.041 +0200,2025-03-31 23:59:59.000
+3434,300,Forkenzeile 26,4,e_g_hm,Data is empty.,2025-05-03 01:22:12.163 +0200,2025-03-31 23:59:59.000
+3417,301,Achillesstr. 96,4,e_g_hm,Data is empty.,2025-05-03 01:21:12.098 +0200,2025-03-31 23:59:59.000
+3459,5,Raderberger Straße 154-160,130,v_chp(n)_gm,No values greater than 0.,2025-05-03 01:39:21.241 +0200,2025-03-31 23:59:59.000
+3951,333,Gottfried-Daniels-Str. 37a,6,e_hw(n)_hm,No values greater than 0.,2025-05-03 01:55:19.283 +0200,2025-03-31 23:59:59.000
+4911,304,Buchholzer Strasse 4,133,v_g_gm,No complete data. ,2025-05-03 02:42:53.339 +0200,2025-03-31 23:59:59.000
+3946,333,Gottfried-Daniels-Str. 37a,5,e_hc(n)_hm,No values greater than 0.,2025-05-03 01:54:18.055 +0200,2025-03-31 23:59:59.000
+78,296,Breitkopfstr. 140,133,v_g_gm,Data is empty.,2025-05-02 18:17:01.617 +0200,2025-03-31 23:59:59.000
+6932,406,Robert-Bunsen-Weg 42-46,4,e_g_hm,No complete data. ,2025-05-03 04:45:31.825 +0200,2025-03-31 23:59:59.000
+6934,406,Robert-Bunsen-Weg 42-46,133,v_g_gm,No complete data. ,2025-05-03 04:46:32.174 +0200,2025-03-31 23:59:59.000
+5877,396,"Reginhardstraße 16, HZ",130,v_chp(n)_gm,No values greater than 0.,2025-05-03 04:18:59.392 +0200,2025-03-31 23:59:59.000
+87,288,Allee der Kosmonauten 113,4,e_g_hm,Data is empty.,2025-05-02 18:20:05.545 +0200,2025-03-31 23:59:59.000
+6785,405,Haslocher Weg 59,133,v_g_gm,Data is empty.,2025-05-03 04:43:30.258 +0200,2025-03-31 23:59:59.000
+7062,414,Stresemannstraße 8,5,e_hc(n)_hm,No values greater than 0.,2025-05-03 05:04:36.193 +0200,2025-03-31 23:59:59.000
+7163,375,Lindenstr. 8,133,v_g_gm,Data is empty.,2025-05-03 05:16:13.378 +0200,2025-03-31 23:59:59.000
+7673,416,Haslocher Weg 75,4,e_g_hm,Data is empty.,2025-05-03 05:19:18.913 +0200,2025-03-31 23:59:59.000
+7769,364,Moosstraße 73,6,e_hw(n)_hm,Data is empty.,2025-05-03 05:21:19.007 +0200,2025-03-31 23:59:59.000
+7773,325,Sandstraße 102,,,No values greater than 0.,2025-05-03 05:24:37.051 +0200,2025-03-31 23:59:59.000
+7775,325,Sandstraße 102,,,No values greater than 0.,2025-05-03 05:27:03.939 +0200,2025-03-31 23:59:59.000
+7777,325,Sandstraße 102,,,No values greater than 0.,2025-05-03 05:29:14.044 +0200,2025-03-31 23:59:59.000
+7779,325,Sandstraße 102,,,No values greater than 0.,2025-05-03 05:31:32.914 +0200,2025-03-31 23:59:59.000
+7784,435,Nollendorfstraße 2,4,e_g_hm,Data is empty.,2025-05-03 05:33:42.631 +0200,2025-03-31 23:59:59.000
+8901,468,Wilhelm-Tell-Str. 89,128,v_b(n)_gm,No values greater than 0.,2025-05-03 05:59:35.576 +0200,2025-03-31 23:59:59.000
+8916,472,Gottfried-Benn-Weg 50 (/Else-Ury-Weg 51),128,v_b(n)_gm,No values greater than 0.,2025-05-03 06:02:17.374 +0200,2025-03-31 23:59:59.000
+6923,405,Haslocher Weg 59,4,e_g_hm,Data is empty.,2025-05-03 04:44:30.303 +0200,2025-03-31 23:59:59.000
+7164,375,Lindenstr. 8,1,e_b(n)_hm,Data is empty.,2025-05-03 05:17:13.424 +0200,2025-03-31 23:59:59.000
+7770,364,Moosstraße 73,133,v_g_gm,Data is empty.,2025-05-03 05:22:19.057 +0200,2025-03-31 23:59:59.000
+7778,325,Sandstraße 102,,,No values greater than 0.,2025-05-03 05:30:14.699 +0200,2025-03-31 23:59:59.000
+7780,325,Sandstraße 102,,,No values greater than 0.,2025-05-03 05:32:42.582 +0200,2025-03-31 23:59:59.000
+7789,436,Zietenstraße 18 / II,5,e_hc(n)_hm,Data is empty.,2025-05-03 05:34:42.756 +0200,2025-03-31 23:59:59.000
+8904,466,Rodewaldstraße 19,128,v_b(n)_gm,No values greater than 0.,2025-05-03 06:00:56.720 +0200,2025-03-31 23:59:59.000
+7771,364,Moosstraße 73,5,e_hc(n)_hm,Data is empty.,2025-05-03 05:23:19.103 +0200,2025-03-31 23:59:59.000
+7790,436,Zietenstraße 18 / II,133,v_g_gm,Data is empty.,2025-05-03 05:35:42.839 +0200,2025-03-31 23:59:59.000
+10072,387,Brillkamp 1-9,6,e_hw(n)_hm,No complete data. ,2025-05-03 06:38:42.317 +0200,2025-03-31 23:59:59.000
+102,269,Breitkopfstr. 105,6,e_hw(n)_hm,Data is empty.,2025-05-02 18:24:09.931 +0200,2025-03-31 23:59:59.000
+111,111,Weverstr. 11A,5,e_hc(n)_hm,No values greater than 0.,2025-05-02 18:26:12.861 +0200,2025-03-31 23:59:59.000
+13008,388,Jägerstraße 7-13,6,e_hw(n)_hm,No complete data. ,2025-05-03 07:32:37.372 +0200,2025-03-31 23:59:59.000
+13014,388,Jägerstraße 7-13,133,v_g_gm,No complete data. ,2025-05-03 07:33:38.542 +0200,2025-03-31 23:59:59.000
+117,111,Weverstr. 11A,5,e_hc(n)_hm,No values greater than 0.,2025-05-02 18:29:14.635 +0200,2025-03-31 23:59:59.000
+13022,427,Baadenberger Str. 140,133,v_g_gm,No complete data. ,2025-05-03 07:34:54.875 +0200,2025-03-31 23:59:59.000
+118,103,Wilhelm-Guddorf-Str. 6,6,e_hw(n)_hm,No values greater than 0.,2025-05-02 18:30:18.848 +0200,2025-03-31 23:59:59.000
+13024,427,Baadenberger Str. 140,6,e_hw(n)_hm,No complete data. ,2025-05-03 07:35:58.488 +0200,2025-03-31 23:59:59.000
+130,140,Jerichower Str. 3,5,e_hc(n)_hm,No values greater than 0.,2025-05-02 18:32:20.285 +0200,2025-03-31 23:59:59.000
+161,143,Aalesunder Str. 10,6,e_hw(n)_hm,No values greater than 0.,2025-05-02 18:39:31.097 +0200,2025-03-31 23:59:59.000
+152,114,Armbrustweg 17,133,v_g_gm,Data is empty.,2025-05-02 18:37:27.425 +0200,2025-03-31 23:59:59.000
+162,141,Aalesunder Str. 9,4,e_g_hm,No values after removing drops.,2025-05-02 18:40:35.711 +0200,2025-03-31 23:59:59.000
+13196,600,Eintrachtstr. 1 (versorgt Eintrachtstr. 1+3),3,e_dh_hm,No complete data. ,2025-05-03 07:46:11.272 +0200,2025-03-31 23:59:59.000
+163,140,Jerichower Str. 3,6,e_hw(n)_hm,No values greater than 0.,2025-05-02 18:41:35.797 +0200,2025-03-31 23:59:59.000
+166,129,Grünrockweg 8,6,e_hw(n)_hm,Data is empty.,2025-05-02 18:43:36.323 +0200,2025-03-31 23:59:59.000
+172,218,Lampesteig 3,5,e_hc(n)_hm,Data is empty.,2025-05-02 18:44:36.377 +0200,2025-03-31 23:59:59.000
+13590,745,Borussiastraße 50,133,v_g_gm,Data is empty.,2025-05-03 07:51:56.513 +0200,2025-03-31 23:59:59.000
+13867,546,Ennenstr. 2a,400,eel_hp(n)_em_supply_act,No complete data. ,2025-05-03 08:00:15.305 +0200,2025-03-31 23:59:59.000
+202,142,Neumarkplan 10A,,,No values greater than 0.,2025-05-02 18:56:08.386 +0200,2025-03-31 23:59:59.000
+212,148,Erich-Kurz-Str. 13,6,e_hw(n)_hm,No values greater than 0.,2025-05-02 18:58:16.007 +0200,2025-03-31 23:59:59.000
+216,148,Erich-Kurz-Str. 13,5,e_hc(n)_hm,No values after removing drops.,2025-05-02 18:59:16.659 +0200,2025-03-31 23:59:59.000
+225,115,Klemkestr. 20,133,v_g_gm,Data is empty.,2025-05-02 19:04:24.743 +0200,2025-03-31 23:59:59.000
+230,254,Buckower Ring 79,5,e_hc(n)_hm,Data is empty.,2025-05-02 19:06:26.832 +0200,2025-03-31 23:59:59.000
+239,120,Büchsenweg 9,5,e_hc(n)_hm,Data is empty.,2025-05-02 19:08:29.498 +0200,2025-03-31 23:59:59.000
+242,127,Breitkopfstr. 136,6,e_hw(n)_hm,Data is empty.,2025-05-02 19:10:30.878 +0200,2025-03-31 23:59:59.000
+249,267,Residenzstr. 149,133,v_g_gm,Data is empty.,2025-05-02 19:13:32.430 +0200,2025-03-31 23:59:59.000
+258,147,Pistoriusplatz 15,4,e_g_hm,No values after removing drops.,2025-05-02 19:15:37.118 +0200,2025-03-31 23:59:59.000
+262,141,Aalesunder Str. 9,6,e_hw(n)_hm,No values greater than 0.,2025-05-02 19:16:40.884 +0200,2025-03-31 23:59:59.000
+15673,536,Cecinastraße 32,400,eel_hp(n)_em_supply_act,Data is empty.,2025-05-03 08:33:53.648 +0200,2025-03-31 23:59:59.000
+282,206,Murtzaner Ring 34,5,e_hc(n)_hm,Data is empty.,2025-05-02 19:21:48.459 +0200,2025-03-31 23:59:59.000
+295,161,Neumarkplan 7B,6,e_hw(n)_hm,No values greater than 0.,2025-05-02 19:26:57.363 +0200,2025-03-31 23:59:59.000
+318,147,Pistoriusplatz 15,6,e_hw(n)_hm,No values greater than 0.,2025-05-02 19:34:08.011 +0200,2025-03-31 23:59:59.000
+321,157,Alfred-Randt-Str. 20,6,e_hw(n)_hm,No values greater than 0.,2025-05-02 19:36:11.708 +0200,2025-03-31 23:59:59.000
+323,182,Breitkopfstr. 101,5,e_hc(n)_hm,Data is empty.,2025-05-02 19:37:11.757 +0200,2025-03-31 23:59:59.000
+16731,769,Persantestr. 21,128,v_b(n)_gm,Series cannot be transformed to be monotonic increasing. Deleting data.,2025-05-03 08:50:39.974 +0200,2025-03-31 23:59:59.000
+16825,798,WIE 216-1; Zeiler Weg 36,133,v_g_gm,No values greater than 0.,2025-05-03 08:53:59.154 +0200,2025-03-31 23:59:59.000
+16855,800,WIE 216-3; Prenzl. Prom. 121,133,v_g_gm,No values greater than 0.,2025-05-03 08:55:06.438 +0200,2025-03-31 23:59:59.000
+16868,537,Am Steinberg 37,400,eel_hp(n)_em_supply_act,Series cannot be transformed to be monotonic increasing. Deleting data.,2025-05-03 08:57:19.474 +0200,2025-03-31 23:59:59.000
+355,145,Götelstr. 99,6,e_hw(n)_hm,No values greater than 0.,2025-05-02 19:49:33.083 +0200,2025-03-31 23:59:59.000
+353,136,Lincolnstr. 60,6,e_hw(n)_hm,No values greater than 0.,2025-05-02 19:47:29.962 +0200,2025-03-31 23:59:59.000
+354,145,Götelstr. 99,4,e_g_hm,No complete data. ,2025-05-02 19:48:32.922 +0200,2025-03-31 23:59:59.000
+361,220,Breitkopfstr. 119,5,e_hc(n)_hm,Data is empty.,2025-05-02 19:51:35.416 +0200,2025-03-31 23:59:59.000
+21675,698,Platz vor dem Neuen Tor 1,5,e_hc(n)_hm,No values greater than 0.,2025-05-03 10:35:59.924 +0200,2025-03-31 23:59:59.000
+387,180,Stolzenhagener Str. 7,4,e_g_hm,Data is empty.,2025-05-02 19:58:46.175 +0200,2025-03-31 23:59:59.000
+394,129,Grünrockweg 8,133,v_g_gm,Data is empty.,2025-05-02 20:01:49.738 +0200,2025-03-31 23:59:59.000
+18175,787,An den Hubertshäusern 23,128,v_b(n)_gm,Series cannot be transformed to be monotonic increasing. Deleting data.,2025-05-03 09:15:03.387 +0200,2025-03-31 23:59:59.000
+424,169,Poelchaustr. 32,6,e_hw(n)_hm,Data is empty.,2025-05-02 20:07:58.170 +0200,2025-03-31 23:59:59.000
+23421,1360,"Kirschanger 4, Schwielowsee - Technikzentrale 1",5,e_hc(n)_hm,No values greater than 0.,2025-05-03 11:50:14.469 +0200,2025-03-31 23:59:59.000
+23431,1360,"Kirschanger 4, Schwielowsee - Technikzentrale 1",2,e_chp(n)_hm,No values greater than 0.,2025-05-03 11:53:17.111 +0200,2025-03-31 23:59:59.000
+23441,1360,"Kirschanger 4, Schwielowsee - Technikzentrale 1",2,e_chp(n)_hm,No values greater than 0.,2025-05-03 11:56:23.448 +0200,2025-03-31 23:59:59.000
+23446,1360,"Kirschanger 4, Schwielowsee - Technikzentrale 1",2,e_chp(n)_hm,No values greater than 0.,2025-05-03 11:57:58.917 +0200,2025-03-31 23:59:59.000
+23471,1361,"Kirschanger 2, Schwielowsee - Unterstation Haus A Nord",5,e_hc(n)_hm,No values greater than 0.,2025-05-03 12:02:51.710 +0200,2025-03-31 23:59:59.000
+23481,1361,"Kirschanger 2, Schwielowsee - Unterstation Haus A Nord",5,e_hc(n)_hm,No values greater than 0.,2025-05-03 12:06:04.364 +0200,2025-03-31 23:59:59.000
+23500,1362,"Kirschanger 4, Schwielowsee - Unterstation Haus A Süd",5,e_hc(n)_hm,No values greater than 0.,2025-05-03 12:09:11.344 +0200,2025-03-31 23:59:59.000
+23436,1360,"Kirschanger 4, Schwielowsee - Technikzentrale 1",2,e_chp(n)_hm,No values greater than 0.,2025-05-03 11:54:50.248 +0200,2025-03-31 23:59:59.000
+25797,1864,Lommenweg 10,128,v_b(n)_gm,No complete data. ,2025-05-03 13:05:17.325 +0200,2025-03-31 23:59:59.000
+25331,1729,Sigmaringer Str. 13,128,v_b(n)_gm,No values greater than 0.,2025-05-03 12:47:41.707 +0200,2025-03-31 23:59:59.000
+25913,1559,Zschopauer Straße 142,128,v_b(n)_gm,No values greater than 0.,2025-05-03 13:11:00.302 +0200,2025-03-31 23:59:59.000
+26478,1675,"Landskroner Weg 25, versorgt Landskroner Weg 23,25",128,v_b(n)_gm,No values greater than 0.,2025-05-03 13:38:56.006 +0200,2025-03-31 23:59:59.000
+27796,653,"Hartengrube 5, 7/9, 11",133,v_g_gm,No values greater than 0.,2025-05-03 14:03:16.451 +0200,2025-03-31 23:59:59.000
+20320,781,Jahnstraße 14,128,v_b(n)_gm,No values greater than 0.,2025-05-03 09:49:32.146 +0200,2025-03-31 23:59:59.000
+27175,1501,Vastersstr. 23+25,128,v_b(n)_gm,No values greater than 0.,2025-05-03 13:55:32.659 +0200,2025-03-31 23:59:59.000
+23053,467,Lüchower Str. 23,128,v_b(n)_gm,No values greater than 0.,2025-05-03 11:33:59.255 +0200,2025-03-31 23:59:59.000
+20825,1404,"Halle, Bielefelder Straße 26",400,eel_hp(n)_em_supply_act,No complete data. ,2025-05-03 10:01:39.753 +0200,2025-03-31 23:59:59.000
+23406,1360,"Kirschanger 4, Schwielowsee - Technikzentrale 1",5,e_hc(n)_hm,No values greater than 0.,2025-05-03 11:45:37.358 +0200,2025-03-31 23:59:59.000
