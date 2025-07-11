@@ -1,3 +1,4 @@
 cheatsheet.md
 *.csv
 *checkpoint.ipynb
+.env
