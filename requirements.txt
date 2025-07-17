@@ -5,3 +5,4 @@ matplotlib
 seaborn
 scikit-learn
 git+https://github.com/Green-Fusion/energy-management-backend.git@main#subdirectory=python_client
+ipympl
