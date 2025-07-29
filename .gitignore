@@ -3,4 +3,5 @@ cheatsheet.md
 *checkpoint.ipynb
 .env
 *.html
+*.gsheet 
 er-diagram.svg
