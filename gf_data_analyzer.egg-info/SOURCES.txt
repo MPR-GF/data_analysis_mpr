@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+gf_data_analyzer.egg-info/PKG-INFO
+gf_data_analyzer.egg-info/SOURCES.txt
+gf_data_analyzer.egg-info/dependency_links.txt
+gf_data_analyzer.egg-info/requires.txt
+gf_data_analyzer.egg-info/top_level.txt

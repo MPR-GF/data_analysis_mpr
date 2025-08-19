@@ -1,0 +1,14 @@
+[project]
+name = "gf-data-analyzer" # <-- CHANGE THIS
+version = "0.1.0"
+description = "A project for analyzing Green Fusion data."
+dependencies = [
+    "pandas",
+    "plotly",
+    "jupyter",
+    "python-dotenv",
+    "energy-management-backend-python-client @ git+https://github.com/Green-Fusion/energy-management-backend.git@main#subdirectory=python_client",
+]
+
+[project.optional-dependencies]
+dev = []

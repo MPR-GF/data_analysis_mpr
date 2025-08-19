@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: gf-data-analyzer
+Version: 0.1.0
+Summary: A project for analyzing Green Fusion data.
+Requires-Dist: pandas
+Requires-Dist: plotly
+Requires-Dist: jupyter
+Requires-Dist: python-dotenv
+Requires-Dist: energy-management-backend-python-client@ git+https://github.com/Green-Fusion/energy-management-backend.git@main#subdirectory=python_client
+Provides-Extra: dev

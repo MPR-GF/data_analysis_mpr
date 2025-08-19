@@ -5,3 +5,21 @@ cheatsheet.md
 *.html
 *.gsheet 
 er-diagram.svg
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+*.venv/
+
+# IDE / Editor specific
+.vscode/
+!.vscode/settings.json
+
+# Configuration
+.env
+
+# Notebook checkpoints
+.ipynb_checkpoints/

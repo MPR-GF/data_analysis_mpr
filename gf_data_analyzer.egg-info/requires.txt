@@ -1,0 +1,7 @@
+pandas
+plotly
+jupyter
+python-dotenv
+energy-management-backend-python-client@ git+https://github.com/Green-Fusion/energy-management-backend.git@main#subdirectory=python_client
+
+[dev]
